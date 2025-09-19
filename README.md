@@ -2,7 +2,7 @@
 A list of extensions and themes for SillyTavern.
 > [!NOTE]
 > Note that this is mostly unsorted and likely outdated.
-> [Contribution guidelines for this project](Contributing.md)
+> [Contribution guidelines for this project](Guidelines.md)
 ## Official
 Repository 			            - https://github.com/SillyTavern/SillyTavern-Content</br>
 Duplicate Finder 	        	- https://github.com/SillyTavern/Extension-DupeFinder</br>
