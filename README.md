@@ -5,6 +5,7 @@ A list of extensions and themes for SillyTavern.
 ## Official
 Repository 			            - https://github.com/SillyTavern/SillyTavern-Content</br>
 Duplicate Finder 	        	- https://github.com/SillyTavern/Extension-DupeFinder</br>
+Timelines 		             	- https://github.com/SillyTavern/SillyTavern-Timelines</br>
 ## Unofficial
 ### Extensions
 Qvink Memory 		          	- https://github.com/qvink/SillyTavern-MessageSummarize</br>
@@ -16,7 +17,6 @@ Super Objective 	        	- https://github.com/ForgottenGlory/ST-SuperObjective.
 Anchor Search 		        	- https://github.com/mia13165/SillyTavern-Anchor-Search</br>
 Character Hub Search 	    	- https://github.com/city-unit/SillyTavern-Chub-Search</br>
 ReMemory 			              - https://github.com/InspectorCaracal/SillyTavern-ReMemory</br>
-Timelines 		             	- https://github.com/SillyTavern/SillyTavern-Timelines</br>
 Character Style Customizer 	- https://github.com/RivelleDays/SillyTavern-CharacterStyleCustomizer</br>
 Greeting Placeholders       - https://github.com/splitclover/greeting-placeholders</br>
 CarrotKernal 		          	- https://github.com/Coneja-Chibi/CarrotKernel</br>
