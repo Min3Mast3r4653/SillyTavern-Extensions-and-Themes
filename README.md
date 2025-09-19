@@ -3,45 +3,45 @@ A list of extensions and themes for SillyTavern.
 > [!NOTE]
 > Note that this is mostly unsorted and likely outdated.
 ## Official
-Repository 			- https://github.com/SillyTavern/SillyTavern-Content
-Duplicate Finder 		- https://github.com/SillyTavern/Extension-DupeFinder
+Repository 			            - https://github.com/SillyTavern/SillyTavern-Content</br>
+Duplicate Finder 	        	- https://github.com/SillyTavern/Extension-DupeFinder</br>
 ## Unofficial
 ### Extensions
-Qvink Memory 			- https://github.com/qvink/SillyTavern-MessageSummarize
-Tracker 			- https://github.com/kaldigo/SillyTavern-Tracker
-Tracker Enhanced 		- https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced
-Stepped Thinking 		- https://github.com/cierru/st-stepped-thinking
-Mode Toggles 			- https://github.com/dfaker/st-mode-toggles/
-Super Objective 		- https://github.com/ForgottenGlory/ST-SuperObjective.git
-Anchor Search 			- https://github.com/mia13165/SillyTavern-Anchor-Search
-Character Hub Search 		- https://github.com/city-unit/SillyTavern-Chub-Search
-ReMemory 			- https://github.com/InspectorCaracal/SillyTavern-ReMemory
-Timelines 			- https://github.com/SillyTavern/SillyTavern-Timelines
-Character Style Customizer 	- https://github.com/RivelleDays/SillyTavern-CharacterStyleCustomizer
-Greeting Placeholders 		- https://github.com/splitclover/greeting-placeholders
-CarrotKernal 			- https://github.com/Coneja-Chibi/CarrotKernel
-Memory Books 			- https://github.com/aikohanasaki/SillyTavern-MemoryBooks
-Guided Generations 		- https://github.com/Samueras/GuidedGenerations-Extension
-Simple QR Bar Toggle 		- https://github.com/IceFog72/SillyTavern-SimpleQRBarToggle
-Custom Scenario 		- https://github.com/bmen25124/SillyTavern-Custom-Scenario
-World Info Bulk Mover 		- https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover
-NemoLore 			- https://github.com/NemoVonNirgend/NemoLore
-Character Creator 		- https://github.com/bmen25124/SillyTavern-Character-Creator
-Roadway 			- https://github.com/bmen25124/SillyTavern-Roadway
-WeatherPack 			- https://github.com/bmen25124/SillyTavern-WeatherPack
-Presence 			- https://github.com/leandrojofre/SillyTavern-Presence
-NemoPresetExt 			- https://github.com/NemoVonNirgend/NemoPresetExt
-Variable Viewer 		- https://github.com/LenAnderson/SillyTavern-Variable-Viewer
-World Info Info 		- https://github.com/LenAnderson/SillyTavern-WorldInfoInfo
-Ember 				- https://github.com/NemoVonNirgend/Ember
+Qvink Memory 		          	- https://github.com/qvink/SillyTavern-MessageSummarize</br>
+Tracker 		              	- https://github.com/kaldigo/SillyTavern-Tracker</br>
+Tracker Enhanced 	        	- https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced</br>
+Stepped Thinking 	        	- https://github.com/cierru/st-stepped-thinking</br>
+Mode Toggles 		          	- https://github.com/dfaker/st-mode-toggles</br>
+Super Objective 	        	- https://github.com/ForgottenGlory/ST-SuperObjective.git</br>
+Anchor Search 		        	- https://github.com/mia13165/SillyTavern-Anchor-Search</br>
+Character Hub Search 	    	- https://github.com/city-unit/SillyTavern-Chub-Search</br>
+ReMemory 			              - https://github.com/InspectorCaracal/SillyTavern-ReMemory</br>
+Timelines 		             	- https://github.com/SillyTavern/SillyTavern-Timelines</br>
+Character Style Customizer 	- https://github.com/RivelleDays/SillyTavern-CharacterStyleCustomizer</br>
+Greeting Placeholders       - https://github.com/splitclover/greeting-placeholders</br>
+CarrotKernal 		          	- https://github.com/Coneja-Chibi/CarrotKernel</br>
+Memory Books 			          - https://github.com/aikohanasaki/SillyTavern-MemoryBooks</br>
+Guided Generations 		      - https://github.com/Samueras/GuidedGenerations-Extension</br>
+Simple QR Bar Toggle       	- https://github.com/IceFog72/SillyTavern-SimpleQRBarToggle</br>
+Custom Scenario 		        - https://github.com/bmen25124/SillyTavern-Custom-Scenario</br>
+World Info Bulk Mover	      - https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover</br>
+NemoLore 		        	      - https://github.com/NemoVonNirgend/NemoLore</br>
+Character Creator         	- https://github.com/bmen25124/SillyTavern-Character-Creator</br>
+Roadway 			              - https://github.com/bmen25124/SillyTavern-Roadway</br>
+WeatherPack 		          	- https://github.com/bmen25124/SillyTavern-WeatherPack</br>
+Presence 			              - https://github.com/leandrojofre/SillyTavern-Presence</br>
+NemoPresetExt 		  	      - https://github.com/NemoVonNirgend/NemoPresetExt</br>
+Variable Viewer 	         	- https://github.com/LenAnderson/SillyTavern-Variable-Viewer</br>
+World Info Info 	        	- https://github.com/LenAnderson/SillyTavern-WorldInfoInfo</br>
+Ember 				              - https://github.com/NemoVonNirgend/Ember</br>
 ### Themes
-Moonlit Echoes 			- https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme
-LA Theme 			- https://github.com/LenAnderson/SillyTavern-LATheme
-Not a Discord Theme 		- https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme
+Moonlit Echoes 		        	- https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme</br>
+LA Theme 			              - https://github.com/LenAnderson/SillyTavern-LATheme</br>
+Not a Discord Theme 	      - https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme</br>
 ### Presets
-NemoEngine 			- https://github.com/NemoVonNirgend/NemoEngine
-SpicyMarinara 			- https://github.com/SpicyMarinara/SillyTavern-Settings
-ashuotaku 			- https://github.com/ashuotaku/sillytavern
+NemoEngine 		            	- https://github.com/NemoVonNirgend/NemoEngine</br>
+SpicyMarinara 	  	      	- https://github.com/SpicyMarinara/SillyTavern-Settings</br>
+ashuotaku 			            - https://github.com/ashuotaku/sillytavern</br>
 ### Other
-https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks
-https://leafcanfly.neocities.org/presets
+https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks</br>
+https://leafcanfly.neocities.org/presets</br>
