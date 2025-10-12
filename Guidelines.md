@@ -1,8 +1,7 @@
 # Contribution Guidelines
->[!NOTE]
-> I am too lazy to write basic descriptions for the stuff I already put in this
+> [!NOTE]
+> I recommend posting your suggestion in the discussion section.
 
-Is it a plugin/extension/theme/preset?
 ## Server Plugin
 - Please include a basic description
 - What does it do?
