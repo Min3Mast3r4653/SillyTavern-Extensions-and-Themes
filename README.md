@@ -15,19 +15,19 @@ Adds an ability to cluster characters by similarity groups to easily find duplic
 > Timelines 			            - https://github.com/SillyTavern/SillyTavern-Timelines</br>
 Timeline view for SillyTavern chats.
 
-> Quick Persona                   - https://github.com/SillyTavern/Extension-QuickPersona</br>
+> Quick Persona               - https://github.com/SillyTavern/Extension-QuickPersona</br>
 Adds a dropdown menu for selecting user personas from the chat bar.<br>
 
-> Inject Manager                  - https://github.com/SillyTavern/Extension-InjectManager<br>
+> Inject Manager              - https://github.com/SillyTavern/Extension-InjectManager<br>
 Adds a floating element that shows the number of script injections in the prompt.<br>
 
-> Objective                       - https://github.com/SillyTavern/Extension-Objective<br>
+> Objective                   - https://github.com/SillyTavern/Extension-Objective<br>
 Set an Objective for the AI to aim for during the chat.<br>
 
-> Dice                            - https://github.com/SillyTavern/Extension-Dice<br>
+> Dice                        - https://github.com/SillyTavern/Extension-Dice<br>
 A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.<br>
 
-> Chat Top Info Bar               - https://github.com/SillyTavern/Extension-TopInfoBar<br>
+> Chat Top Info Bar           - https://github.com/SillyTavern/Extension-TopInfoBar<br>
 Adds a top bar to the chat window with shortcuts to quick actions.<br>
 
 ### Documentation: https://docs.sillytavern.app
@@ -167,6 +167,9 @@ Helps you manage world info based on the current context with LLMs using connect
 > Rewrite                     - https://github.com/splitclover/rewrite-extension<br>
 The Rewrite Extension enhances the chat experience in SillyTavern by allowing users to dynamically rewrite, shorten, or expand selected text within messages.
 
+> RPG Companion               - https://github.com/SpicyMarinara/rpg-companion-sillytavern
+RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
+
 ### Lorebooks
 > BunnyMo 		              	- https://github.com/Coneja-Chibi/BunnyMo</br>
 The Repository for the SillyTavern thinking engine.
@@ -175,7 +178,7 @@ The Repository for the SillyTavern thinking engine.
 > Moonlit Echoes         			- https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme</br>
 A modern, minimalist, and elegant theme for SillyTavern. Inspired by moonlit nights and gentle echoes of serenity.
 
-LA Theme 			            - https://github.com/LenAnderson/SillyTavern-LATheme</br>
+LA Theme 			                - https://github.com/LenAnderson/SillyTavern-LATheme</br>
 
 > Not a Discord Theme 		    - https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme</br>
 Totally not a Discord theme.
@@ -184,13 +187,13 @@ Totally not a Discord theme.
 > NemoEngine             			- https://github.com/NemoVonNirgend/NemoEngine</br>
 Say goodbye to your tokens and hello to quality.
 
-> SpicyMarinara 			      - https://github.com/SpicyMarinara/SillyTavern-Settings</br>
+> SpicyMarinara 			        - https://github.com/SpicyMarinara/SillyTavern-Settings</br>
 Custom and basic Story Strings, Instructs and Parameters templates for SillyTavern.
 
-> ashuotaku 			          - https://github.com/ashuotaku/sillytavern</br>
+> ashuotaku 			            - https://github.com/ashuotaku/sillytavern</br>
 Contains ashuotaku's SillyTavern settings, presets, guides and regex.
 
-> Sphiratrioth 			        - https://huggingface.co/sphiratrioth666/SillyTavern-Presets-Sphiratrioth</br>
+> Sphiratrioth 			          - https://huggingface.co/sphiratrioth666/SillyTavern-Presets-Sphiratrioth</br>
 Simple, effective, universal presets for SillyTavern role-playing purposes.
 
 ### Other
