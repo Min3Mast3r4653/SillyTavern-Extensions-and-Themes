@@ -168,7 +168,37 @@ Helps you manage world info based on the current context with LLMs using connect
 The Rewrite Extension enhances the chat experience in SillyTavern by allowing users to dynamically rewrite, shorten, or expand selected text within messages.
 
 > RPG Companion               - https://github.com/SpicyMarinara/rpg-companion-sillytavern<br>
-RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content
+RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content.
+
+> st-char-powersearch         -  https://github.com/dfaker/st-char-powersearch<br>
+Replacement character search for ST.
+
+> Chapterizer                 - https://github.com/myokmydj/Chapterizer<br>
+Visually organizes your chat into chapters.
+
+> GalleryPlus                 - https://github.com/theFisher86/GalleryPlus<br>
+Enhances the built-in image gallery with powerful navigation and slideshow controls.
+
+> Sorcery                     - https://github.com/p-e-w/sorcery<br>
+Uses STscript or JavaScript to allow AI characters to reach into the real world.
+
+> Lore Tips                   - https://github.com/Slub77/Sillytavern-Loretips<br>
+Shows you when you are going to trigger Lorebook entries with a preview as you type, aslo shows you the trigger words and description.
+
+> Costume Switcher            - https://github.com/archkrrr/SillyTavern-CostumeSwitch<br>
+Enhances the Character Expressions extension by automatically switching the active costume being used in realtime.
+
+> Outfit Switcher             - https://github.com/archkrrr/SillyTavern-OutfitSwitch<br>
+Little brother of Costume Switcher. Instead of detecting who is speaking in a multi-character scene, Outfit Switcher focuses on what a single character is wearing by watching for specific keywords.
+
+> Persona Tags                - https://github.com/Samueras/PersonaTags<br>
+Adds tag filtering and management capabilities to your personas.
+
+> Lorebook Ordering           - https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
+Gives lorebook-level control over activation priority.
+
+> Rabbit-Response-Team        - https://github.com/Coneja-Chibi/Rabbit-Response-Team<br>
+A random word generator designed to destabilize standard LLM pattern and probability-based thinking.
 
 ### Lorebooks
 > BunnyMo 		              	- https://github.com/Coneja-Chibi/BunnyMo<br>
