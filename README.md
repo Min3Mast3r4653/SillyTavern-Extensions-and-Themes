@@ -2,236 +2,372 @@
 A list of extensions and themes for SillyTavern.
 
 > [!NOTE]
-> This list is mostly unsorted and none of this is mine.<br>
-> [Contribution guidelines for this project](Guidelines.md)
+> This list is mostly unsorted and almost none of this is mine.<br>I will remove any extension from the list by the request of the author.<br>
+> [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](Guidelines.md)
 
 ## Official
-> Repository 			            - https://github.com/SillyTavern/SillyTavern-Content<br>
-Official content repository.
+### Repository
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/SillyTavern-Content<br>
+Description: Official content repository.
 
-> Duplicate Finder 	        	- https://github.com/SillyTavern/Extension-DupeFinder<br>
-Adds an ability to cluster characters by similarity groups to easily find duplicates.
+### Duplicate Finder
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-DupeFinder<br>
+Description: Adds an ability to cluster characters by similarity groups to easily find duplicates.
 
-> Timelines 			            - https://github.com/SillyTavern/SillyTavern-Timelines<br>
-Timeline view for SillyTavern chats.
+### Timelines
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/SillyTavern-Timelines<br>
+Description: Timeline view for SillyTavern chats.
 
-> Quick Persona               - https://github.com/SillyTavern/Extension-QuickPersona<br>
-Adds a dropdown menu for selecting user personas from the chat bar.
+### Quick Persona
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-QuickPersona<br>
+Description: Adds a dropdown menu for selecting user personas from the chat bar.
 
-> Inject Manager              - https://github.com/SillyTavern/Extension-InjectManager<br>
-Adds a floating element that shows the number of script injections in the prompt.
+### Inject Manager
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-InjectManager<br>
+Description: Adds a floating element that shows the number of script injections in the prompt.
 
-> Objective                   - https://github.com/SillyTavern/Extension-Objective<br>
-Set an Objective for the AI to aim for during the chat.
+### Objective
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-Objective<br>
+Description: Set an Objective for the AI to aim for during the chat.
 
-> Dice                        - https://github.com/SillyTavern/Extension-Dice<br>
-A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.
+### Dice
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-Dice<br>
+Description: A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.
 
-> Chat Top Info Bar           - https://github.com/SillyTavern/Extension-TopInfoBar<br>
-Adds a top bar to the chat window with shortcuts to quick actions.
+### Top Info Bar
+Creator: [SillyTavern](https://github.com/SillyTavern)<br>
+Link: https://github.com/SillyTavern/Extension-TopInfoBar<br>
+Description: Adds a top bar to the chat window with shortcuts to quick actions.
 
-### Documentation: https://docs.sillytavern.app
+Documentation: https://docs.sillytavern.app
 ## Unofficial
-### Extensions
-> Qvink Memory 		          	- https://github.com/qvink/SillyTavern-MessageSummarize<br>
-lternative to the built-in Summarize extension, reworking how memory is stored by summarizing each message individually, rather than all at once.
+### Qvink Memory
+Creator: [qvink](https://github.com/qvink)<br>
+Link: https://github.com/qvink/SillyTavern-MessageSummarize<br>
+Description: Alternative to the built-in Summarize extension, reworking how memory is stored by summarizing each message individually, rather than all at once.
 
-> Tracker 	              		- https://github.com/kaldigo/SillyTavern-Tracker<br>
-An extension for SillyTavern that provides a customizable tracking feature to monitor character interactions and story elements.
+### Tracker
+Creator: [kaldigo](https://github.com/kaldigo)<br>
+Link: https://github.com/kaldigo/SillyTavern-Tracker<br>
+Description: An extension for SillyTavern that provides a customizable tracking feature to monitor character interactions and story elements.
 
-> Tracker Enhanced 	        	- https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced<br>
-An advanced, feature-rich tracker extension for SillyTavern that provides comprehensive character and scene monitoring with intelligent automation, drag-and-drop field management, and dynamic template generation.
+### Tracker Enhanced
+Creator: [harrywenjie](https://github.com/harrywenjie)<br>
+Link: https://github.com/harrywenjie/SillyTavern-Tracker-Enhanced<br>
+Description: An advanced, feature-rich tracker extension for SillyTavern that provides comprehensive character and scene monitoring with intelligent automation, drag-and-drop field management, and dynamic template generation.
 
-> Stepped Thinking 	        	- https://github.com/cierru/st-stepped-thinking<br>
-The extension is designed to provide prompt chaining for SillyTavern. The general idea behind it is to force an LLM to generate a character's thoughts before running the regular prompt generation. This increases the overall waiting time for a response in favor of the quality of that response.
+### Stepped Thinking
+Creator: [cierru](https://github.com/cierru)<br>
+Link: https://github.com/cierru/st-stepped-thinking<br>
+Description: The extension is designed to provide prompt chaining for SillyTavern. The general idea behind it is to force an LLM to generate a character's thoughts before running the regular prompt generation. This increases the overall waiting time for a response in favor of the quality of that response.
 
-> Mode Toggles 			          - https://github.com/dfaker/st-mode-toggles<br>
-Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
+### Mode Toggles
+Creator: [dfaker](https://github.com/dfaker)<br>
+Link: https://github.com/dfaker/st-mode-toggles<br>
+Description: Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
 
-> Super Objective 	        	- https://github.com/ForgottenGlory/ST-SuperObjective.git<br>
-A major enhancement and partial rewrite of the existing Objective extension for SillyTavern.
+### Super Objective
+Creator: [ForgottenGlory](https://github.com/ForgottenGlory)<br>
+Link: https://github.com/ForgottenGlory/ST-SuperObjective.git<br>
+Description: A major enhancement and partial rewrite of the existing Objective extension for SillyTavern.
 
-> Anchor Search 		        	- https://github.com/mia13165/SillyTavern-Anchor-Search<br>
-Allows you to quickly find and use aicg bots from anchorhold.
+### Anchor Search
+Creator: [mia13165](https://github.com/mia13165)<br>
+Link: https://github.com/mia13165/SillyTavern-Anchor-Search<br>
+Description: Allows you to quickly find and use aicg bots from anchorhold.
 
-> Character Hub Search       	- https://github.com/city-unit/SillyTavern-Chub-Search<br>
-Provides a quick and easy way to search for new cards from CHUB from the comfort of your tavern.
+### Character Hub Search
+Creator: [city-unit](city-unit)<br>
+Link: https://github.com/city-unit/SillyTavern-Chub-Search<br>
+Description: Provides a quick and easy way to search for new cards from CHUB from the comfort of your tavern.
 
-> ReMemory 		              	- https://github.com/InspectorCaracal/SillyTavern-ReMemory<br>
-Yet another SillyTavern memory extension.
+### ReMemory
+Creator: [InspectorCaracal](https://github.com/InspectorCaracal)<br>
+Link: https://github.com/InspectorCaracal/SillyTavern-ReMemory<br>
+Description: Yet another SillyTavern memory extension.
 
-> Character Style Customizer 	- https://github.com/RivelleDays/SillyTavern-CharacterStyleCustomizer<br>
-Lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
+### Character Style Customizer
+Creator: [RivelleDays](https://github.com/RivelleDays)<br>
+Link: https://github.com/RivelleDays/SillyTavern-CharacterStyleCustomizer<br>
+Description: Lets you assign custom colors and CSS styles to each character or persona in SillyTavern.
 
+### Greeting Placeholders
 > [!IMPORTANT]
 > This is extension is no longer maintained for the foreseeable future.<br>
-> Greeting Placeholders   		- https://github.com/splitclover/greeting-placeholders<br>
-Enhances character interactions by allowing dynamic, customizable elements in character greetings for SillyTavern.
+Creator: [splitclover](https://github.com/splitclover)<br>
+Link: https://github.com/splitclover/greeting-placeholders<br>
+Description: Enhances character interactions by allowing dynamic, customizable elements in character greetings for SillyTavern.
 
-> CarrotKernal 			          - https://github.com/Coneja-Chibi/CarrotKernel<br>
-A spiritual successor to BunnyMoTags - Professional Character Sheet & WorldInfo Management System for SillyTavern.
+### CarrotKernel
+Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
+Link: https://github.com/Coneja-Chibi/CarrotKernel<br>
+Description: A spiritual successor to BunnyMoTags - Professional Character Sheet & World Info Management System for SillyTavern.
 
-> Memory Books 		          	- https://github.com/aikohanasaki/SillyTavern-MemoryBooks<br>
-A next-generation SillyTavern extension for automatic, structured, and reliable memory creation. Supports group chats, advanced profile management, and bulletproof API/model handling.
+### Rabbit-Response-Team
+Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
+Link: https://github.com/Coneja-Chibi/Rabbit-Response-Team<br>
+Description: A random word generator designed to destabilize standard LLM pattern and probability-based thinking.
 
-> Guided Generations 		      - https://github.com/Samueras/GuidedGenerations-Extension<br>
-Brings the full power of the original "Guided Generations" Quick Reply set to SillyTavern as a native extension.
+### Memory Books
+Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
+Link: https://github.com/aikohanasaki/SillyTavern-MemoryBooks<br>
+Description: A next-generation SillyTavern extension for automatic, structured, and reliable memory creation. Supports group chats, advanced profile management, and bulletproof API/model handling.
 
-> Simple QR Bar Toggle 		    - https://github.com/IceFog72/SillyTavern-SimpleQRBarToggle<br>
-Adds Quick Replies Bar Hide Toggle Button
+### Guided Generations
+Creator: [Samueras](https://github.com/Samueras)<br>
+Link: https://github.com/Samueras/GuidedGenerations-Extension<br>
+Description: Brings the full power of the original "Guided Generations" Quick Reply set to SillyTavern as a native extension.
 
-> Custom Scenario 		        - https://github.com/bmen25124/SillyTavern-Custom-Scenario<br>
-A SillyTavern extension that allows you to create and play interactive character cards.
+### Simple QR Bar Toggle
+Creator: [IceFog72](https://github.com/IceFog72)<br>
+Link: https://github.com/IceFog72/SillyTavern-SimpleQRBarToggle<br>
+Description: Adds Quick Replies Bar Hide Toggle Button
 
-> World Info Bulk Mover 	  	- https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover<br>
-Allows you to clone WI entries from one lorebook into another.
+### Custom Scenario
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-Custom-Scenario<br>
+Description: A SillyTavern extension that allows you to create and play interactive character cards.
 
-> Character Creator 		      - https://github.com/bmen25124/SillyTavern-Character-Creator<br>
-A SillyTavern extension that helps you create character cards based on your ST data with LLMs using connection profiles.
+### World Info Bulk Mover
+Creator: [leandrojofre](https://github.com/leandrojofre)<br>
+Link: https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover<br>
+Description: Allows you to clone WI entries from one lorebook into another.
 
-> Roadway 			              - https://github.com/bmen25124/SillyTavern-Roadway<br>
-A SillyTavern extension that helps you to make decisions about the story.
+### Character Creator
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-Character-Creator<br>
+Description: A SillyTavern extension that helps you create character cards based on your ST data with LLMs using connection profiles.
 
-> WeatherPack 		          	- https://github.com/bmen25124/SillyTavern-WeatherPack<br>
-A SillyTavern extension that fixes schizo markdown. Also some HTML/JS stuff.
+### Roadway
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-Roadway<br>
+Description: A SillyTavern extension that helps you to make decisions about the story.
 
-> Presence 		  	            - https://github.com/leandrojofre/SillyTavern-Presence<br>
-Gives each individual character their own memory.
+### WeatherPack
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-WeatherPack<br>
+Description: A SillyTavern extension that fixes schizo markdown. Also some HTML/JS stuff.
 
-> NemoLore 		               	- https://github.com/NemoVonNirgend/NemoLore<br>
-Enhances roleplay through intelligent memory management, narrative consistency, and automated lore expansion. It provides advanced noun detection, interactive highlighting, AI-powered summarization, core memory tracking, and semantic search capabilities.
+### Presence
+Creator: [leandrojofre](https://github.com/leandrojofre)<br>
+Link: https://github.com/leandrojofre/SillyTavern-Presence<br>
+Description: Gives each individual character their own memory.
 
-> NemoPresetExt 			        - https://github.com/NemoVonNirgend/NemoPresetExt<br>
-A SillyTavern extension for creating drop downs for ChatCompletion presets.
+### NemoLore
+Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
+Link: https://github.com/NemoVonNirgend/NemoLore<br>
+Description: Enhances roleplay through intelligent memory management, narrative consistency, and automated lore expansion. It provides advanced noun detection, interactive highlighting, AI-powered summarization, core memory tracking, and semantic search capabilities.
 
-> Ember 	               			- https://github.com/NemoVonNirgend/Ember<br>
-A SillyTavern Extension designed to allow for Safe execution of JS within the sillytavern chat window (Similar to CSS or HTML execution)
+### NemoPresetExt
+Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
+Link: https://github.com/NemoVonNirgend/NemoPresetExt<br>
+Description: A SillyTavern extension for creating drop downs for ChatCompletion presets.
 
-> Variable Viewer 		        - https://github.com/LenAnderson/SillyTavern-Variable-Viewer<br>
-A quick and dirty way to show the local and global variables. Helpful while working on ST scripts.
+### Ember
+Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
+Link: https://github.com/NemoVonNirgend/Ember<br>
+Description: A SillyTavern Extension designed to allow for Safe execution of JS within the sillytavern chat window (Similar to CSS or HTML execution)
 
-> World Info Info 		        - https://github.com/LenAnderson/SillyTavern-WorldInfoInfo<br>
-See which WorldInfo entries were active in the last generated message.
+### Variable Viewer
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/SillyTavern-Variable-Viewer<br>
+Description: A quick and dirty way to show the local and global variables. Helpful while working on ST scripts.
 
-> SillyTavern WTracker 		    - https://github.com/bmen25124/SillyTavern-WTracker<br>
-A SillyTavern extension that tracking stats with LLMs.
+### World Info Info
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/SillyTavern-WorldInfoInfo<br>
+Description: See which World Info entries were active in the last generated message.
 
-> SillyTavern - Wizard 		    - https://github.com/LenAnderson/SillyTavern-Wizard<br>
-Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages.
+### SillyTavern WTracker
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-WTracker<br>
+Description: A SillyTavern extension that tracks stats with LLMs.
 
-> Image Auto Generation 		  - https://github.com/wickedcode01/st-image-auto-generation<br>
-Automatically generates images when it detects \<pic prompt="..."> tags in AI messages.
+### SillyTavern - Wizard
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/SillyTavern-Wizard<br>
+Description: Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages.
 
-> Timeline-Memory         		- https://github.com/unkarelian/timeline-memory<br>
-A tool-call based memory system for SillyTavern
+### Image Auto Generation
+Creator: [wickedcode01](https://github.com/wickedcode01)<br>
+Link: https://github.com/wickedcode01/st-image-auto-generation<br>
+Description: Automatically generates images when it detects \<pic prompt="..."\> tags in AI messages.
 
-> ST Custom Fonts 		        - https://github.com/FrostBD/st-custom-fonts<br>
-Allows you to use different fonts. 
+### Timeline-Memory
+Creator: [unkarelian](https://github.com/unkarelian)<br>
+Link: https://github.com/unkarelian/timeline-memory<br>
+Description: A tool-call based memory system for SillyTavern
 
-> SillyTavern Narrator 		    - https://github.com/welvet/SillyTavern-Narrator<br>
-A SillyTavern extension that acts as a dynamic Dungeon Master or Narrator's assistant.
+### ST Custom Fonts
+Creator: [FrostBD](https://github.com/FrostBD)<br>
+Link: https://github.com/FrostBD/st-custom-fonts<br>
+Description: Allows you to use different fonts. 
 
-> Prose Polisher 			        - https://github.com/unkarelian/ProsePolisher<br>
-Polish and improve the prose/style of the generated text (corrections, refinements).
+### SillyTavern Narrator
+Creator: [welvet](https://github.com/welvet)<br>
+Link: https://github.com/welvet/SillyTavern-Narrator<br>
+Description: A SillyTavern extension that acts as a dynamic Dungeon Master or Narrator's assistant.
 
-> Final Response Processor 	  - https://github.com/unkarelian/final-response-processor<br>
-Lets you clean up or fully rewrite any assistant message before it gets sent.
+### Prose Polisher
+Creator: [unkarelian](https://github.com/unkarelian)<br>
+Link: https://github.com/unkarelian/ProsePolisher<br>
+Description: Polish and improve the prose/style of the generated text (corrections, refinements).
 
-> Lorebook Ordering 		      - https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
-A SillyTavern extension that adds lorebook-level priority management and budgeting to World Info. Allows complete control over which lorebooks activate first and allows limiting "hungry" lorebooks. Perfect for users with multiple lorebooks who need fine-grained control over World Info behavior.
+### Final Response Processor
+Creator: [unkarelian](https://github.com/unkarelian)<br>
+Link: https://github.com/unkarelian/final-response-processor<br>
+Description: Lets you clean up or fully rewrite any assistant message before it gets sent.
 
-> Character Locks 		        - https://github.com/aikohanasaki/SillyTavern-CharacterLocks<br>
-A SillyTavern extension that automatically remembers and applies your preferred connection profile and preset settings for different characters, chats, and group conversations.
+### Lorebook Ordering
+Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
+Link: https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
+Description: A SillyTavern extension that adds lorebook-level priority management and budgeting to World Info. Allows complete control over which lorebooks activate first and allows limiting "hungry" lorebooks. Perfect for users with multiple lorebooks who need fine-grained control over World Info behavior.
 
-> World Info Locks 		        - https://github.com/aikohanasaki/SillyTavern-WorldInfoLocks<br>
-A comprehensive preset management system for SillyTavern's World Info functionality.<br>
+### Character Locks
+Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
+Link: https://github.com/aikohanasaki/SillyTavern-CharacterLocks<br>
+Description: A SillyTavern extension that automatically remembers and applies your preferred connection profile and preset settings for different characters, chats, and group conversations.
+
+### World Info Locks
+Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
+Link: https://github.com/aikohanasaki/SillyTavern-WorldInfoLocks<br>
+Description: A comprehensive preset management system for SillyTavern's World Info functionality.<br>
 Originally forked from [World Info Presets](https://github.com/LenAnderson/SillyTavern-WorldInfoPresets/).
 
-> SillyTavern BananaGen 		  - https://github.com/welvet/SillyTavern-BananaGen<br>
-Generates images based on your stories.
+### SillyTavern BananaGen
+Creator: [welvet](https://github.com/welvet)<br>
+Link: https://github.com/welvet/SillyTavern-BananaGen<br>
+Description: Generates images based on your stories.
 
-> Alternate Fields 		        - https://github.com/nbrown725/SillyTavern-AlternateDescriptions<br>
-Allows you to save and manage multiple versions of character fields within a single character card. Perfect for experimenting with different character concepts without losing your original work.
+### Alternate Fields
+Creator: [nbrown725](https://github.com/nbrown725)<br>
+Link: https://github.com/nbrown725/SillyTavern-AlternateDescriptions<br>
+Description: Allows you to save and manage multiple versions of character fields within a single character card. Perfect for experimenting with different character concepts without losing your original work.
 
-> Outfit Tracker 	    	      - https://github.com/lannashelton/ST-Outfits<br>
-Lets you keep track of what you and your AI character is wearing.
+### Outfit Tracker
+Creator: [lannashelton](https://github.com/lannashelton)<br>
+Link: https://github.com/lannashelton/ST-Outfits<br>
+Description: Lets you keep track of what you and your AI character is wearing.
 
-> SillyTavern MultiPlayer (STMP) - https://github.com/RossAscends/STMP<br>
-Allows multiple users to chat together with one or more AI characters. It also includes a sidebar chat for users only, and many tools for the Host to control the behavior of the AI and to moderate users.
+### SillyTavern MultiPlayer (STMP)
+Creator: [RossAscends](https://github.com/RossAscends)<br>
+Link: https://github.com/RossAscends/STMP<br>
+Description: Allows multiple users to chat together with one or more AI characters. It also includes a sidebar chat for users only, and many tools for the Host to control the behavior of the AI and to moderate users.
 
-> World Info Recommender      - https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender<br>
-Helps you manage world info based on the current context with LLMs using connection profiles.
+### World Info Recommender
+Creator: [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender<br>
+Description: Helps you manage world info based on the current context with LLMs using connection profiles.
 
+### Rewrite
 > [!IMPORTANT]
-> This is extension is no longer maintained for the foreseeable future.<br>
-> Rewrite                     - https://github.com/splitclover/rewrite-extension<br>
-The Rewrite Extension enhances the chat experience in SillyTavern by allowing users to dynamically rewrite, shorten, or expand selected text within messages.
+> 2025.09.02 - This is extension is no longer maintained for the foreseeable future.<br>
+Creator: [splitclover](https://github.com/splitclover)<br>
+Link: https://github.com/splitclover/rewrite-extension<br>
+Description: The Rewrite Extension enhances the chat experience in SillyTavern by allowing users to dynamically rewrite, shorten, or expand selected text within messages.
 
-> RPG Companion               - https://github.com/SpicyMarinara/rpg-companion-sillytavern<br>
-RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content.
+### RPG Companion
+Creator: [SpicyMarinara](https://github.com/SpicyMarinara)<br>
+Link: https://github.com/SpicyMarinara/rpg-companion-sillytavern<br>
+Description: RPG Companion extension for SillyTavern - Track characters, quests, inventory, and game state with AI-generated content.
 
-> st-char-powersearch         -  https://github.com/dfaker/st-char-powersearch<br>
-Replacement character search for ST.
+### st-char-powersearch
+Creator: [dfaker](https://github.com/dfaker)<br>
+Link: https://github.com/dfaker/st-char-powersearch<br>
+Description: Replacement character search for ST.
 
-> Chapterizer                 - https://github.com/myokmydj/Chapterizer<br>
-Visually organizes your chat into chapters.
+### Chapterizer
+Creator: [myokmydj](https://github.com/myokmydj)<br>
+Link: https://github.com/myokmydj/Chapterizer<br>
+Description: Visually organizes your chat into chapters.
 
-> GalleryPlus                 - https://github.com/theFisher86/GalleryPlus<br>
-Enhances the built-in image gallery with powerful navigation and slideshow controls.
+### GalleryPlus
+Creator: [theFisher86](https://github.com/theFisher86)<br>
+Link: https://github.com/theFisher86/GalleryPlus<br>
+Description: Enhances the built-in image gallery with powerful navigation and slideshow controls.
 
-> Sorcery                     - https://github.com/p-e-w/sorcery<br>
-Uses STscript or JavaScript to allow AI characters to reach into the real world.
+### Sorcery
+Creator: [p-e-w](https://github.com/p-e-w)<br>
+Link: https://github.com/p-e-w/sorcery<br>
+Description: Uses STscript or JavaScript to allow AI characters to reach into the real world.
 
-> Lore Tips                   - https://github.com/Slub77/Sillytavern-Loretips<br>
-Shows you when you are going to trigger Lorebook entries with a preview as you type, aslo shows you the trigger words and description.
+### Lore Tips
+Creator: [Slub77](https://github.com/Slub77)<br>
+Link: https://github.com/Slub77/Sillytavern-Loretips<br>
+Description: Shows you when you are going to trigger Lorebook entries with a preview as you type, aslo shows you the trigger words and description.
 
-> Costume Switcher            - https://github.com/archkrrr/SillyTavern-CostumeSwitch<br>
-Enhances the Character Expressions extension by automatically switching the active costume being used in realtime.
+### Costume Switcher
+Creator: [archkrrr](https://github.com/archkrrr)<br>
+Link: https://github.com/archkrrr/SillyTavern-CostumeSwitch<br>
+Description: Enhances the Character Expressions extension by automatically switching the active costume being used in realtime.
 
-> Outfit Switcher             - https://github.com/archkrrr/SillyTavern-OutfitSwitch<br>
-Little brother of Costume Switcher. Instead of detecting who is speaking in a multi-character scene, Outfit Switcher focuses on what a single character is wearing by watching for specific keywords.
+### Outfit Switcher
+Creator: [archkrrr](https://github.com/archkrrr)<br>
+Link: https://github.com/archkrrr/SillyTavern-OutfitSwitch<br>
+Description: Little brother of Costume Switcher. Instead of detecting who is speaking in a multi-character scene, Outfit Switcher focuses on what a single character is wearing by watching for specific keywords.
 
-> Persona Tags                - https://github.com/Samueras/PersonaTags<br>
-Adds tag filtering and management capabilities to your personas.
+### Persona Tags
+Creator: [Samueras](https://github.com/Samueras)<br>
+Link: https://github.com/Samueras/PersonaTags<br>
+Description: Adds tag filtering and management capabilities to your personas.
 
-> Lorebook Ordering           - https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
-Gives lorebook-level control over activation priority.
+### Lorebook Ordering
+Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
+Link: https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
+Description: Gives lorebook-level control over activation priority.
 
-> Rabbit-Response-Team        - https://github.com/Coneja-Chibi/Rabbit-Response-Team<br>
-A random word generator designed to destabilize standard LLM pattern and probability-based thinking.
+## Lorebooks
+### BunnyMo
+Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
+Link: https://github.com/Coneja-Chibi/BunnyMo<br>
+Description: The Repository for the SillyTavern thinking engine.
 
-### Lorebooks
-> BunnyMo 		              	- https://github.com/Coneja-Chibi/BunnyMo<br>
-The Repository for the SillyTavern thinking engine.
+## Themes
+### Moonlit Echoes
+Creator: [RivelleDays](https://github.com/RivelleDays)<br>
+Link: https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme<br>
+Description: A modern, minimalist, and elegant theme for SillyTavern. Inspired by moonlit nights and gentle echoes of serenity.
 
-### Themes
-> Moonlit Echoes         			- https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme<br>
-A modern, minimalist, and elegant theme for SillyTavern. Inspired by moonlit nights and gentle echoes of serenity.
+### LA Theme
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/SillyTavern-LATheme<br>
 
-LA Theme 			                - https://github.com/LenAnderson/SillyTavern-LATheme<br>
+### Not a Discord Theme
+Creator: [IceFog72](https://github.com/IceFog72)<br>
+Link: https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme<br>
+Description: Totally not a Discord theme.
 
-> Not a Discord Theme 		    - https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme<br>
-Totally not a Discord theme.
+## Presets
+### NemoEngine
+Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
+Link: https://github.com/NemoVonNirgend/NemoEngine<br>
+Description: Say goodbye to your tokens and hello to quality.
 
-### Presets
-> NemoEngine             			- https://github.com/NemoVonNirgend/NemoEngine<br>
-Say goodbye to your tokens and hello to quality.<br>
-Updated on 9/28/25
+### SpicyMarinara
+Creator: [SpicyMarinara](https://github.com/SpicyMarinara)<br>
+Links: https://github.com/SpicyMarinara/SillyTavern-Settings | https://spicymarinara.github.io<br>
+Description: Custom and basic Story Strings, Instructs, Regex, and Parameters for SillyTavern.
 
-> SpicyMarinara 			        - https://github.com/SpicyMarinara/SillyTavern-Settings<br>
-Custom and basic Story Strings, Instructs and Parameters templates for SillyTavern.<br>
-Updated on 10/14/25
+### ashuotaku
+Creator: [ashuotaku](https://github.com/ashuotaku)<br>
+Link: https://github.com/ashuotaku/sillytavern<br>
+Description: Contains ashuotaku's SillyTavern settings, presets, guides and regex.
 
-> ashuotaku 			            - https://github.com/ashuotaku/sillytavern<br>
-Contains ashuotaku's SillyTavern settings, presets, guides and regex.
-
-> Sphiratrioth 			          - https://huggingface.co/sphiratrioth666/SillyTavern-Presets-Sphiratrioth<br>
-Simple, effective, universal presets for SillyTavern role-playing purposes.
+### Sphiratrioth
+Creator: [Sphiratrioth](https://huggingface.co/sphiratrioth666)<br>
+Link: https://huggingface.co/sphiratrioth666/SillyTavern-Presets-Sphiratrioth<br>
+Description: Simple, effective, universal presets for SillyTavern role-playing purposes.
 
 ### Other
 https://leafcanfly.neocities.org/presets<br>
 https://momoura.neocities.org<br>
-https://spicymarinara.github.io<br>
 https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets<br>
 https://rentry.org/Sukino-Findings<br>
 https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks<br>
