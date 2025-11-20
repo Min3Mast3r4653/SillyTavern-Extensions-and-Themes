@@ -3,7 +3,7 @@ A list of extensions and themes for SillyTavern.
 
 > [!NOTE]
 > This list is mostly unsorted and almost none of this is mine.<br>I will remove any extension from the list by the request of the author.<br>
-> [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](Guidelines.md)
+> [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
 ## Official
 ### Repository
