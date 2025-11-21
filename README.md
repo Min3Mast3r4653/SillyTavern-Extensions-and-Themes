@@ -1,16 +1,22 @@
 # SillyTavern-Extensions-and-Themes
 A list of extensions and themes for SillyTavern.
+Reccommend to read official documentation: https://docs.sillytavern.app
 
 > [!NOTE]
 > This list is mostly unsorted and almost none of this is mine.<br>I will remove any extension from the list by the request of the author.<br>
 > [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
-## Official
-### Repository
+## Repositories
+### LennySuite
+Link: https://raw.githubusercontent.com/underscorex86/SillyTavern-LennySuite/main/index.json <br>
+Description: Unofficial LennySuite content repository for extensions by [LenAnderson](https://github.com/LenAnderson)
+
+### Official
 Creator: [SillyTavern](https://github.com/SillyTavern)<br>
-Link: https://github.com/SillyTavern/SillyTavern-Content<br>
+Link: https://github.com/SillyTavern/SillyTavern-Content<br> 
 Description: Official content repository.
 
+## Official Extensions
 ### Duplicate Finder
 Creator: [SillyTavern](https://github.com/SillyTavern)<br>
 Link: https://github.com/SillyTavern/Extension-DupeFinder<br>
@@ -46,8 +52,7 @@ Creator: [SillyTavern](https://github.com/SillyTavern)<br>
 Link: https://github.com/SillyTavern/Extension-TopInfoBar<br>
 Description: Adds a top bar to the chat window with shortcuts to quick actions.
 
-Documentation: https://docs.sillytavern.app
-## Unofficial
+## Unofficial Extensions
 ### Qvink Memory
 Creator: [qvink](https://github.com/qvink)<br>
 Link: https://github.com/qvink/SillyTavern-MessageSummarize<br>
@@ -329,6 +334,11 @@ Link: https://github.com/LenAnderson/SillyTavern-Everything<br>
 Description: Access every exported variable and function from SillyTavern and installed extensions.<br>
 Optional Server Plugin: https://github.com/LenAnderson/SillyTavern-EverythingPlugin
 
+### Cache Chunker
+Creator: [Omegastick](https://github.com/Omegastick)<br>
+Link: https://github.com/Omegastick/SillyTavern-CacheChunker<br>
+Description: Improves cache utilization.
+
 ## Lorebooks
 ### BunnyMo
 Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
@@ -354,12 +364,12 @@ Description: Totally not a Discord theme.
 ### NemoEngine
 Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
 Link: https://github.com/NemoVonNirgend/NemoEngine<br>
-Description: Say goodbye to your tokens and hello to quality.
+Description: The legendary NemoEngine preset. "Say goodbye to your tokens and hello to quality."
 
 ### SpicyMarinara
 Creator: [SpicyMarinara](https://github.com/SpicyMarinara)<br>
 Links: https://github.com/SpicyMarinara/SillyTavern-Settings | https://spicymarinara.github.io<br>
-Description: Custom and basic Story Strings, Instructs, Regex, and Parameters for SillyTavern.
+Description: Custom and basic Story Strings, Instructs, Regex, and Parameters for SillyTavern. Also has a couple of characters.
 
 ### ashuotaku
 Creator: [ashuotaku](https://github.com/ashuotaku)<br>
@@ -371,12 +381,34 @@ Creator: [Sphiratrioth](https://huggingface.co/sphiratrioth666)<br>
 Link: https://huggingface.co/sphiratrioth666/SillyTavern-Presets-Sphiratrioth<br>
 Description: Simple, effective, universal presets for SillyTavern role-playing purposes.
 
+### cavecomputing
+Creator: [cavecomputing](https://github.com/cavecomputing)<br>
+Link: https://github.com/cavecomputing/nanobear<br>
+Description: A prompt meant for roleplaying.
+
+Creator: [cavecomputing](https://github.com/cavecomputing)<br>
+Link: https://github.com/cavecomputing/spookybear<br>
+Description: A spooky roleplay centric system prompt based off of Nano Bear.
+
+Creator: [cavecomputing](https://github.com/cavecomputing)<br>
+Link: https://github.com/cavecomputing/littlebear<br>
+Description: A roleplay-centric system prompt designed to push the story forward a bit faster than Nano Bear.
+
+### Sukino
+Creator: [Sukino](https://rentry.org/Sukino-Findings)<br>
+Links: https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets | https://rentry.org/Sukino-Findings | https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks | https://rentry.org/Sukino-Guides<br>
+Description: A roleplay-centric system prompt designed to push the story forward a bit faster than Nano Bear.
+
+### Leafcanfly
+Creator: [Leafcanfly](https://leafcanfly.neocities.org)<br>
+Link: https://leafcanfly.neocities.org/presets<br>
+Description: Ceilia preset
+
+### Momoura
+Creator: [Momoura](https://momoura.neocities.org)<br>
+Link: https://momoura.neocities.org<br>
+Description: Presets for Claude and Deepseek, also has characters.
+
 ### Other
-https://leafcanfly.neocities.org/presets<br>
-https://momoura.neocities.org<br>
-https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets<br>
-https://rentry.org/Sukino-Findings<br>
-https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks<br>
-https://rentry.org/Sukino-Guides<br>
 https://rentry.org/SketchyNights<br>
 https://www.reddit.com/r/LocalLLaMA/comments/1f07rst/comment/ljsjvv1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1
