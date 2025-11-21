@@ -1,5 +1,5 @@
 # Regex
-[Back to main list](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes)<br>
+[Back to main list](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) | [Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)<br>
 Pattern enclosed between slashes for direct match as follows: `/abc/`<br>
 Using special characters for indirect matches as follows: `/ab*c/` - the `*` after `b` means `0 or more occurrences of the preceding item.` In the string `cbbabbbbcdebc`, this pattern will match the substring `abbbbc`.
 
