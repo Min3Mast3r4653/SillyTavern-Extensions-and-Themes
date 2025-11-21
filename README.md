@@ -6,6 +6,9 @@ Reccommend to read official documentation: https://docs.sillytavern.app
 > This list is mostly unsorted and almost none of this is mine.<br>I will remove any extension from the list by the request of the author.<br>
 > [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
+## Seperated lists for ease of use
+- [Regex](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/Regex.md)
+
 ## Repositories
 ### LennySuite
 Link: https://raw.githubusercontent.com/underscorex86/SillyTavern-LennySuite/main/index.json <br>
@@ -13,8 +16,8 @@ Description: Unofficial LennySuite content repository for extensions by [LenAnde
 
 ### Official
 Creator: [SillyTavern](https://github.com/SillyTavern)<br>
-Link: https://github.com/SillyTavern/SillyTavern-Content<br> 
-Description: Official content repository.
+Link: https://raw.githubusercontent.com/SillyTavern/SillyTavern-Content/main/index.json<br> 
+Description: Official content repository, SillyTavern's default asset list.
 
 ## Official Extensions
 ### Duplicate Finder
@@ -409,6 +412,24 @@ Creator: [Momoura](https://momoura.neocities.org)<br>
 Link: https://momoura.neocities.org<br>
 Description: Presets for Claude and Deepseek, also has characters.
 
-### Other
-https://rentry.org/SketchyNights<br>
+### SketchyNights
+Link: https://rentry.org/SketchyNights<br>
+Description: Made to turn lorebook entries into PList format.
+
+## Other
 https://www.reddit.com/r/LocalLLaMA/comments/1f07rst/comment/ljsjvv1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1
+
+## Guides
+### World Info Encyclopedia
+Creator: [kingbri1](https://github.com/kingbri1), [Alicat], [Trappu]
+Link: https://rentry.co/world-info-encyclopedia
+Description: Essentially a World Info Encyclopedia, bit outdated in the photos and doesn't have info about the newest features but describes the usage of World Info/Lorebooks.
+
+### Regex
+Links (Copied from SillyTavern documentation)<br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions<br>
+https://docs.sillytavern.app/usage/core-concepts/worldinfo/#regular-expression-regex-as-keys<br>
+https://regexr.com<br>
+https://regex101.com<br>
+https://extendsclass.com/regex-tester.html<br>
+https://en.wikipedia.org/wiki/Regular_expression
