@@ -323,6 +323,12 @@ Creator: [aikohanasaki](https://github.com/aikohanasaki)<br>
 Link: https://github.com/aikohanasaki/SillyTavern-LorebookOrdering<br>
 Description: Gives lorebook-level control over activation priority.
 
+### Everything
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/SillyTavern-Everything<br>
+Description: Access every exported variable and function from SillyTavern and installed extensions.<br>
+Optional Server Plugin: https://github.com/LenAnderson/SillyTavern-EverythingPlugin
+
 ## Lorebooks
 ### BunnyMo
 Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
