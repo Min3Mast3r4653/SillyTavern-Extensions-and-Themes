@@ -7,7 +7,7 @@ Reccommend to read official documentation: https://docs.sillytavern.app
 > [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
 ## Seperated lists for ease of use
-- [Regex](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/Regex.md)
+- [Regex](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/blob/main/Regex.md)
 
 ## Repositories
 ### LennySuite
