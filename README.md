@@ -400,7 +400,7 @@ Description: A roleplay-centric system prompt designed to push the story forward
 ### Sukino
 Creator: [Sukino](https://rentry.org/Sukino-Findings)<br>
 Links: https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets | https://rentry.org/Sukino-Findings | https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks | https://rentry.org/Sukino-Guides<br>
-Description: A roleplay-centric system prompt designed to push the story forward a bit faster than Nano Bear.
+Description:  A Practical Index to AI Roleplay.
 
 ### Leafcanfly
 Creator: [Leafcanfly](https://leafcanfly.neocities.org)<br>
@@ -418,12 +418,13 @@ Description: Made to turn lorebook entries into PList format.
 
 ## Other
 https://www.reddit.com/r/LocalLLaMA/comments/1f07rst/comment/ljsjvv1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1
+https://rentry.org/gemini_filters
 
 ## Guides
 ### World Info Encyclopedia
 Creator: [kingbri1](https://github.com/kingbri1), [Alicat], [Trappu]
 Link: https://rentry.co/world-info-encyclopedia
-Description: Essentially a World Info Encyclopedia, bit outdated in the photos and doesn't have info about the newest features but describes the usage of World Info/Lorebooks.
+Description: Essentially a World Info Encyclopedia, it's bit outdated in the photos and doesn't have info about the newest features but accurately describes how to use Lorebooks and what each thing does.
 
 ### Regex
 Links (Copied from SillyTavern documentation)<br>
