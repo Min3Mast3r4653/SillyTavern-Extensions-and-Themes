@@ -342,6 +342,37 @@ Creator: [Omegastick](https://github.com/Omegastick)<br>
 Link: https://github.com/Omegastick/SillyTavern-CacheChunker<br>
 Description: Improves cache utilization.
 
+### Qdrant Memory
+Creator: [HO-git](https://github.com/HO-git)<br>
+Link: https://github.com/HO-git/st-qdrant-memory<br>
+Description: Provides long-term memory capabilities by integrating with Qdrant vector database.
+
+### Bot Browser
+Creator: [mia13165](https://github.com/mia13165)<br>
+Link: https://github.com/mia13165/SillyTavern-BotBrowser
+Description: Browse character bots and lorebooks from various sources directly in SillyTavern.
+
+### Lorebook Sticky Sort
+Creator: [sakanomichi](https://github.com/sakanomichi)<br>
+Link: https://github.com/sakanomichi/SillyTavern-LorebookStickySort<br>
+Description: Automatically remembers your preferred sort order for each individual lorebook.
+
+### AnotherCharManager
+Creator: [sakhavhyand](https://github.com/sakhavhyand)<br>
+Link: https://github.com/sakhavhyand/SillyTavern-AnotherCharManager<br>
+Description: Another character management interface for SillyTavern.<br>
+Optional Plugin: [Avatar Replacement](https://github.com/sakhavhyand/SillyTavern-AvatarEdit)
+
+### Flowchart
+Creator [bmen25124](https://github.com/bmen25124)<br>
+Link: https://github.com/bmen25124/SillyTavern-Flowchart<br>
+Description: Allows you to automate actions, create custom commands, and build complex logic using a visual node-based editor. Replacement for STscript.
+
+### Lore Spoilers
+Creator: [cha1latte](https://github.com/cha1latte)<br>
+Link: https://github.com/cha1latte/lore-spoilers<br>
+Description: Hide lorebook entries from yourself while the AI still sees everything.
+
 ## Lorebooks
 ### BunnyMo
 Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
@@ -367,7 +398,7 @@ Description: Totally not a Discord theme.
 ### NemoEngine
 Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
 Link: https://github.com/NemoVonNirgend/NemoEngine<br>
-Description: The legendary NemoEngine preset. "Say goodbye to your tokens and hello to quality."
+Description: The legendary NemoEngine preset.
 
 ### SpicyMarinara
 Creator: [SpicyMarinara](https://github.com/SpicyMarinara)<br>
@@ -399,7 +430,7 @@ Description: A roleplay-centric system prompt designed to push the story forward
 
 ### Sukino
 Creator: [Sukino](https://rentry.org/Sukino-Findings)<br>
-Links: https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets | https://rentry.org/Sukino-Findings | https://rentry.org/Sukino-Findings#presets-prompts-and-jailbreaks | https://rentry.org/Sukino-Guides<br>
+Links:  https://sukinocreates.neocities.org | https://huggingface.co/Sukino/SillyTavern-Settings-and-Presets | https://rentry.org/Sukino-Findings | https://rentry.org/Sukino-Guides<br>
 Description:  A Practical Index to AI Roleplay.
 
 ### Leafcanfly
@@ -417,8 +448,10 @@ Link: https://rentry.org/SketchyNights<br>
 Description: Made to turn lorebook entries into PList format.
 
 ## Other
+https://www.reddit.com/r/SillyTavernAI/comments/1nz3wo7/i_dream_of_nemo_universal_system_prompt_creator
 https://www.reddit.com/r/LocalLLaMA/comments/1f07rst/comment/ljsjvv1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1
 https://rentry.org/gemini_filters
+https://rentry.org/STGPTimport
 
 ## Guides
 ### World Info Encyclopedia
