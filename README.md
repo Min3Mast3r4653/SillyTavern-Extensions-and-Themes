@@ -338,6 +338,12 @@ Creator: [LenAnderson](https://github.com/LenAnderson)<br>
 Link: https://github.com/LenAnderson/SillyTavern-Variable-Viewer<br>
 Description: A quick and dirty way to show the local and global variables. Helpful while working on ST scripts.
 
+### VectHare
+Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
+https://github.com/Coneja-Chibi/VectHare<br>
+Description: Intelligent context retrieval with temporal decay, conditional activation, and multiple vector backends.<br>
+Optional Server Plugin: https://github.com/Coneja-Chibi/VectHare/tree/Similharity-Plugin
+
 ### WeatherPack
 Creator: [bmen25124](https://github.com/bmen25124)<br>
 Link: https://github.com/bmen25124/SillyTavern-WeatherPack<br>
@@ -347,6 +353,17 @@ Description: A SillyTavern extension that fixes schizo markdown. Also some HTML/
 Creator: [LenAnderson](https://github.com/LenAnderson)<br>
 Link: https://github.com/LenAnderson/SillyTavern-Wizard<br>
 Description: Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages.
+
+### World Info Drawer
+Creator: [LenAnderson](https://github.com/LenAnderson)<br>
+Link: https://github.com/LenAnderson/Sillytavern-WorldInfoDrawer<br>
+Description: Overhauls the Lorebook editing experience.
+
+### World Info Drawer 2.0
+Creator: [lazuli-s](https://github.com/lazuli-s)<br>
+Link: https://github.com/lazuli-s/SillyTavern-WorldInfoDrawer<br>
+Description: This fork keeps the lorebook editing experience while adding quality-of-life tweaks to make organizing World Info entries faster and less error-prone.
+Originally forked from [WorldInfoDrawer](https://github.com/LenAnderson/WorldInfoDrawer).
 
 ### World Info Bulk Mover
 Creator: [leandrojofre](https://github.com/leandrojofre)<br>
