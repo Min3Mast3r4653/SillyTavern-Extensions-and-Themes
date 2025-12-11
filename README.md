@@ -118,6 +118,11 @@ Creator: [dfaker](https://github.com/dfaker)<br>
 Link: https://github.com/dfaker/st-char-powersearch<br>
 Description: Replacement character search for ST.
 
+### Character Preview
+Creator: [Hexicy](https://github.com/Hexicy)<br>
+Link: https://github.com/Hexicy/ST-CharacterPreview<br>
+Description: Displays character information in a pop-up box when clicking character cards.
+
 ### Chapterizer
 Creator: [myokmydj](https://github.com/myokmydj)<br>
 Link: https://github.com/myokmydj/Chapterizer<br>
