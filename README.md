@@ -1,9 +1,8 @@
 # SillyTavern-Extensions-and-Themes
-A list of extensions and themes for SillyTavern.
-Reccommend to read official documentation: https://docs.sillytavern.app
+A list of extensions and themes for SillyTavern.<br>I highly recommend reading the official [Documentation](https://docs.sillytavern.app)
 
 > [!NOTE]
-> This list is mostly unsorted and almost none of this is mine.<br>I will remove any extension from the list by the request of the author.<br>
+> Almost none of this is mine and I will remove any extension from the list by the request of the author.<br>
 > [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
 ## Seperated lists for ease of use
@@ -83,15 +82,20 @@ Creator: [mia13165](https://github.com/mia13165)<br>
 Link: https://github.com/mia13165/SillyTavern-BotBrowser
 Description: Browse character bots and lorebooks from various sources directly in SillyTavern.
 
+### Cache Chunker
+Creator: [Omegastick](https://github.com/Omegastick)<br>
+Link: https://github.com/Omegastick/SillyTavern-CacheChunker<br>
+Description: Improves cache utilization.
+
 ### CarrotKernel
 Creator: [Coneja-Chibi](https://github.com/Coneja-Chibi)<br>
 Link: https://github.com/Coneja-Chibi/CarrotKernel<br>
 Description: A spiritual successor to BunnyMoTags - Professional Character Sheet & World Info Management System for SillyTavern.
 
-### Cache Chunker
-Creator: [Omegastick](https://github.com/Omegastick)<br>
-Link: https://github.com/Omegastick/SillyTavern-CacheChunker<br>
-Description: Improves cache utilization.
+### InfoBoard Sidebar
+Creator: [CarmentaGit](https://github.com/CarmentaGit/Carmy-InfoBoard)<br>
+Link: https://github.com/CarmentaGit/Carmy-InfoBoard<br>
+Description: Extracts a info from the model’s replies and displays it as a clean, narrative-focused sidebar instead of cluttering the chat.
 
 ### Character Creator
 Creator: [bmen25124](https://github.com/bmen25124)<br>
