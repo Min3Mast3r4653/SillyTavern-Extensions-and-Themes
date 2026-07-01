@@ -416,6 +416,11 @@ Creator: [IceFog72](https://github.com/IceFog72)<br>
 Link: https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme<br>
 Description: Obviously not a Discord theme.
 
+### Violet Glass
+Creator: [Mr-Benedict](https://github.com/Mr-Benedict)<br>
+Link: https://github.com/Mr-Benedict/SillyTavern-VioletGlassTheme<br>
+Description: A glassmorphism dark+light theme pair — frosted message cards, violet accent, ambient gradient backdrop, modern icons, and reduced-motion-safe animations.
+
 ## Presets
 ### ashuotaku
 Creator: [ashuotaku](https://github.com/ashuotaku)<br>
