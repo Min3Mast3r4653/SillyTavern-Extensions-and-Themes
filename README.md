@@ -61,11 +61,6 @@ Creator: [nbrown725](https://github.com/nbrown725)<br>
 Link: https://github.com/nbrown725/SillyTavern-AlternateDescriptions<br>
 Description: Allows you to save and manage multiple versions of character fields within a single character card. Perfect for experimenting with different character concepts without losing your original work.
 
-### Anchor Search
-Creator: [mia13165](https://github.com/mia13165)<br>
-Link: https://github.com/mia13165/SillyTavern-Anchor-Search<br>
-Description: Allows you to quickly find and use aicg bots from anchorhold.
-
 ### AnotherCharManager
 Creator: [sakhavhyand](https://github.com/sakhavhyand)<br>
 Link: https://github.com/sakhavhyand/SillyTavern-AnotherCharManager<br>
@@ -76,11 +71,6 @@ Optional Plugin: [Avatar Replacement](https://github.com/sakhavhyand/SillyTavern
 Creator: [welvet](https://github.com/welvet)<br>
 Link: https://github.com/welvet/SillyTavern-BananaGen<br>
 Description: Generates images based on your stories.
-
-### Bot Browser
-Creator: [mia13165](https://github.com/mia13165)<br>
-Link: https://github.com/mia13165/SillyTavern-BotBrowser
-Description: Browse character bots and lorebooks from various sources directly in SillyTavern.
 
 ### Cache Chunker
 Creator: [Omegastick](https://github.com/Omegastick)<br>
