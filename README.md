@@ -1,9 +1,9 @@
 # SillyTavern-Extensions-and-Themes
-A list of extensions and themes for SillyTavern.<br>I highly recommend reading the official [Documentation](https://docs.sillytavern.app)
+A list of extensions and themes for SillyTavern.<br>I highly recommend reading the official [Documentation.](https://docs.sillytavern.app)
 
 > [!NOTE]
 > Almost none of this is mine and I will remove any extension from the list by the request of the author.<br>
-> [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
+> [Discussions](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/discussions) | [Wiki](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/wiki) | [Contribution guidelines](CONTRIBUTING.md)
 
 ## Seperated lists for ease of use
 - [Regex](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes/blob/main/Regex.md)
@@ -137,6 +137,11 @@ Creator: [bmen25124](https://github.com/bmen25124)<br>
 Link: https://github.com/bmen25124/SillyTavern-Custom-Scenario<br>
 Description: A SillyTavern extension that allows you to create and play interactive character cards.
 
+### EchoChamber
+Creator: [mattjaybe](https://github.com/mattjaybe)<br>
+Link: https://github.com/mattjaybe/SillyTavern-EchoChamber<br>
+Description: Generates AI-powered "audience" reactions in various chat styles that appear below or beside the chat input.
+
 ### Ember
 Creator: [NemoVonNirgend](https://github.com/NemoVonNirgend)<br>
 Link: https://github.com/NemoVonNirgend/Ember<br>
@@ -165,7 +170,7 @@ Description: Enhances the built-in image gallery with powerful navigation and sl
 
 ### Greeting Placeholders
 > [!IMPORTANT]
-> This is extension is no longer maintained for the foreseeable future.<br>
+> This extension is no longer maintained for the foreseeable future.<br>
 Creator: [splitclover](https://github.com/splitclover)<br>
 Link: https://github.com/splitclover/greeting-placeholders<br>
 Description: Enhances character interactions by allowing dynamic, customizable elements in character greetings for SillyTavern.
@@ -209,6 +214,11 @@ Description: A next-generation SillyTavern extension for automatic, structured, 
 Creator: [dfaker](https://github.com/dfaker)<br>
 Link: https://github.com/dfaker/st-mode-toggles<br>
 Description: Clickable cinematic “mode” toggles for SillyTavern that prepend flavorful meta-directives to your prompt and add a floating microchip menu to flip vibes on the fly.
+
+### Multihog D&D Framework
+Creator: [MultihogAurelius](https://github.com/MultihogAurelius)<br>
+Link: https://github.com/MultihogAurelius/SillyTavern-MultihogDnDFramework<br>
+Description: Originally a humble "RPG State Tracker", but has since expanded into a more ambitious "game engine" with state tracking, an RNG system, lorebook agent, and world progression.
 
 ### MultiPlayer (STMP)
 Creator: [RossAscends](https://github.com/RossAscends)<br>
@@ -277,7 +287,7 @@ Description: Yet another SillyTavern memory extension.
 
 ### Rewrite
 > [!IMPORTANT]
-> 2025.09.02 - This is extension is no longer maintained for the foreseeable future.<br>
+> 2025.09.02 - This extension is no longer maintained for the foreseeable future.<br>
 Creator: [splitclover](https://github.com/splitclover)<br>
 Link: https://github.com/splitclover/rewrite-extension<br>
 Description: The Rewrite Extension enhances the chat experience in SillyTavern by allowing users to dynamically rewrite, shorten, or expand selected text within messages.
@@ -302,10 +312,20 @@ Creator: [p-e-w](https://github.com/p-e-w)<br>
 Link: https://github.com/p-e-w/sorcery<br>
 Description: Uses STscript or JavaScript to allow AI characters to reach into the real world.
 
+### ST-Copilot
+Creator: [Supker](https://github.com/Supker)<br>
+Link: https://github.com/Supker/ST-Copilot<br>
+Description: An Out-Of-Character meta-assistant, creative co-writer, and Dungeon Master's aide.
+
 ### Stepped Thinking
 Creator: [cierru](https://github.com/cierru)<br>
 Link: https://github.com/cierru/st-stepped-thinking<br>
 Description: The extension is designed to provide prompt chaining for SillyTavern. The general idea behind it is to force an LLM to generate a character's thoughts before running the regular prompt generation. This increases the overall waiting time for a response in favor of the quality of that response.
+
+### Summaryception
+Creator: [Lodactio](https://github.com/Lodactio)<br>
+Link: https://github.com/Lodactio/Extension-Summaryception<br>
+Description: A non-destructive, context-aware memory system for SillyTavern that replaces brute-force context stuffing with intelligent layered summarization.
 
 ### Super Objective
 Creator: [ForgottenGlory](https://github.com/ForgottenGlory)<br>
